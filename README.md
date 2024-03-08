@@ -1,15 +1,20 @@
-<h1 align="center">Hi There! 👋,  I'm Nilavan Sritharan 💛</h1>
-<h4 align="center">A Passionate Software Developer 👨‍💻</h4>
-<p>🤩 Welcome to my GitHub, feel free to browse my coding projects 🤩</p>
-
-<h1>Reach Me 📨</h1>
-
-<a href="https://www.linkedin.com/in/nilavans/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
-<a href="mailto:nilavansritharan.official@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://github.com/nilavans">![GitHub](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white)</a>
-<hr>
-
-<h1>Skills 🛠️</h1>
+<p align="center">
+  <img src="https://gifdb.com/images/high/animated-grey-cat-hello-hi-waving-6m2r3pv52ounr82n.webp" width="240px">
+  <br><br>
+  <samp>
+    :wave: Hi there, I'm <b>Nilavan Sritharan</b>
+     <br> passionate software developer looking
+      <br> to help humans <img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px"><br>
+     <br><img src="https://25.media.tumblr.com/d59ac57c7be4085e22ae87e2ca5d7c70/tumblr_mx9io0pNB71r5510so1_500.gif" width="200px">
+     <br>
+    Let's connect 👇
+     <br> <p align="center"><a href="https://www.linkedin.com/in/nilavans"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+       <a href="mailto:nilavansritharan.official@gmail.com?subject=Hi Liza!! I saw your GitHub"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" height=25></a> 
+       <a href="https://github.com/nilavans"><img alt="GitHub" src="https://img.shields.io/badge/Github-%23181717?style=for-the-badge&logo=github&logoColor=white"></a> 
+     </p>
+    <br> 
+    <p align="center">My skills 🛠️</p>
+</p>
 
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=black)
